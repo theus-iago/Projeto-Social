@@ -9,7 +9,11 @@ html, body {
 	width:100vw;
 	background-color:black;
 }
-
+body {
+	background:url('../images/fundo-madeira.png') no-repeat top center;
+	background-size:cover;
+	background-attachment:fixed;
+}
 main {
 	height:100vh;
 	position:relative;
@@ -23,5 +27,5 @@ main {
 	
 	height:500px;
 	width:311px;
-	background:blue url('../images/frame-iphone.png') no-repeat;
+	background:url('../images/frame-iphone.png') no-repeat;
 }
