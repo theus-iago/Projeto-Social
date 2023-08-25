@@ -23,5 +23,5 @@ main {
 	
 	height:500px;
 	width:500px;
-	background-color:blue;
+	background:blue url('../images/frame-iphone.png') no-repeat;
 }
