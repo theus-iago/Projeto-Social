@@ -35,6 +35,9 @@ main {
 	width:269px;
 	height:471px;
 }
+#redes-sociais {
+	text-align:right;
+}
 #redes-sociais img {
 	width:50px;
 	margin:10px;
