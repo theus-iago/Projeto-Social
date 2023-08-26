@@ -17,7 +17,6 @@ body {
 main {
 	height:100vh;
 	position:relative;
-	background-color:green;
 }
 #telefone {
 	position:absolute;
@@ -25,7 +24,7 @@ main {
 	left:50%;
 	transform:translate(-50%,-50%);
 	
-	height:500px;
+	height:627px;
 	width:311px;
 	background:url('../images/frame-iphone.png') no-repeat;
 }
@@ -35,4 +34,10 @@ main {
 	left:22px;
 	width:269px;
 	height:471px;
+}
+#redes-sociais img {
+	width:50px;
+	margin:10px;
+	border-radius:50%;
+	box-shadow:2px 2px 5px rgba(0,0,0, 0.400);
 }
